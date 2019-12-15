@@ -1,4 +1,4 @@
-# ParameterTuningofClassificationModels
+# MachineLearningClassificationModels
 
 We learned that parameter tuning is one of the most important parts in a machine learning project.
 Rather than having to manually try every combination of parameters, scikit-learn provides tools
